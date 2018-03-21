@@ -1,0 +1,12 @@
+<specification>
+    <transitions>
+        <transition>
+            <parameters>
+                <parameter>
+                    <type>String</type>
+                    <value>testParameter</value>
+                </parameter>
+            </parameters>
+        </transition>
+    </transitions>
+</specification>

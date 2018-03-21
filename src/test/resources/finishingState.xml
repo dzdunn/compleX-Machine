@@ -1,0 +1,9 @@
+<specification>
+    <transitions>
+        <transition>
+            <finishingState>
+                <name>finishingState</name>
+            </finishingState>
+        </transition>
+    </transitions>
+</specification>

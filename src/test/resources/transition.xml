@@ -1,0 +1,7 @@
+<specification>
+    <transitions>
+        <transition>
+            <name>testTransition</name>
+        </transition>
+    </transitions>
+</specification>

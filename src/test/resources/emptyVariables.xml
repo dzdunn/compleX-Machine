@@ -1,0 +1,9 @@
+<specification>
+    <transitions>
+        <transition>
+            <startingState>
+                <variables />
+            </startingState>
+        </transition>
+    </transitions>
+</specification>

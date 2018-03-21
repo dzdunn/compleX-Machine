@@ -1,0 +1,31 @@
+#testType{
+     margin-top: 80px;
+}
+
+#loadSpec{
+    margin-top: 80px;
+}
+
+#loadTestSystem{
+    margin-top: 80px;
+}
+
+#backButton{
+    margin-top: 80px;
+}
+
+#rerun {
+    float: right;
+}
+
+.btn{
+    margin-bottom: 5px;
+}
+
+.pass{
+    background-color: #adff2f;
+}
+
+.fail{
+    background-color: #ff6347;
+}

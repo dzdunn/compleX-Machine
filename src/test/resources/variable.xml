@@ -1,0 +1,13 @@
+<specification>
+    <transitions>
+        <transition>
+            <startingState>
+                <variables>
+                    <variable>
+                        <name>testVariable</name>
+                    </variable>
+                </variables>
+            </startingState>
+        </transition>
+    </transitions>
+</specification>
